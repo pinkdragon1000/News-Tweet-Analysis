@@ -18,6 +18,6 @@ In Progress
 TODO:
 * Unigram Frequency Counter - Nick
 * Bigram Frequency Counter - Nick
-* Bigram barchart
-* Cosine similarity matrix
-* TF-IDF matrix
+* Bigram barchart - Abdel
+* Cosine similarity matrix - Abdel
+* TF-IDF matrix - Abdel
