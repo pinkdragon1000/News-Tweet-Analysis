@@ -14,6 +14,7 @@ In Progress
 
 
 **Please sign up for 2/3 remaining sections.**
+
 TODO:
 * Unigram Frequency Counter
 * Bigram Frequency Counter
