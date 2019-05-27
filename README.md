@@ -16,8 +16,8 @@ In Progress
 **Please sign up for 2/3 remaining sections.**
 
 TODO:
-* Unigram Frequency Counter
-* Bigram Frequency Counter
+* Unigram Frequency Counter - Nick
+* Bigram Frequency Counter - Nick
 * Bigram barchart
 * Cosine similarity matrix
 * TF-IDF matrix
