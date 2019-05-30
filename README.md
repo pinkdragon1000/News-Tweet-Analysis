@@ -15,13 +15,11 @@ Completed
 -   Bigram Frequency Counter - Nick
 -   Trigram Frequency Counter-Nick
 -   LDA-Sita
--   Bigram barchart - Abdel
+-   Bigram Barchart - Abdel
+-   TF-IDF Matrix - Abdel
+-   Cosine Similarity Matrix - Abdel
+-   Cosine Similarity Plot - Abdel
 
 In Progress
 
 -   PyLDAvis plot-Sita
-
-TODO:
-
--   Cosine similarity matrix - Abdel
--   TF-IDF matrix - Abdel
