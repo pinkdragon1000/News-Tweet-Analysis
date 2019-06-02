@@ -4,22 +4,12 @@
 
 View the Jupyter Notebook easily by copying [this link](https://github.com/pinkdragon1000/News-Tweet-Analysis/blob/master/News%20Tweet%20Analysis.ipynb) and pasting it into [here](https://nbviewer.jupyter.org/).
 
-Completed
+**Project Goals**
 
--   Saved data into mongodb (4001 tweets)-Sita
--   Tweet activity over time-Sita
--   Sentiment Analysis Polarity Scores-Nick, Sita
--   Histogram of Sentiments-Sita
--   Word Clouds for positive, negative, overall-Sita
--   Unigram Frequency Counter - Nick
--   Bigram Frequency Counter - Nick
--   Trigram Frequency Counter-Nick
--   LDA-Sita
--   Bigram Barchart - Abdel
--   TF-IDF Matrix - Abdel
--   Cosine Similarity Matrix - Abdel
--   Cosine Similarity Plot - Abdel
+* What part of the day was the most/least tweets posted?
+* What utilities are most commonly used to post tweets?
+* Who are the top posters that use #news on May 25th.
+* What news topics go under the categories of positive, negative, and neutral sentiments?
+* What news topics do people talk about most?
 
-In Progress
-
--   PyLDAvis plot-Sita
+[Link to Slides](https://docs.google.com/presentation/d/1BMiOZXUHh9V0ZDekYLhY0mWsuZlnCJb-HdCFhPrzwPs/edit#slide=id.g589d691f2b_0_51)
